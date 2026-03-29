@@ -1,0 +1,11 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+minisom
+umap-learn
+hdbscan
+torch
+Pillow
+jupyter
